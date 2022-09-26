@@ -29,3 +29,6 @@ set scrolloff=8                         " Stop scrolling 8 lines before the end 
 set cursorline                          " Enable highlighting of the current line
 set updatetime=50                       " Faster completion
 set noshowmode                          " We don't need to see things like -- INSERT -- anymore
+set spelllang=en                        " Set English as language to check 
+nnoremap <silent> <F9> :set spell!<cr>
+inoremap <silent> <F9> <C-O>:set spell!<cr>
