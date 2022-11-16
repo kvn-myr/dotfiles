@@ -18,3 +18,6 @@ vim.api.nvim_set_keymap('n', '<leader>zb', '<Cmd>ZkBacklinks<CR>', opts)
 
 -- Open notes linked by the current buffer.
 vim.api.nvim_set_keymap("n", "<leader>zl", "<Cmd>ZkLinks<CR>", opts)
+
+-- Open markdown-preview
+vim.api.nvim_set_keymap("n", "<leader>mm", "<Cmd>MarkdownPreview<CR>", opts)
