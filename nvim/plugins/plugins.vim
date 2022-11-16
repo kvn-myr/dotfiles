@@ -35,8 +35,12 @@ call plug#begin()
     Plug 'lervag/vimtex'
 
     " Zettelkasten
-    Plug 'pyrho/nerveux.nvim'
-    Plug 'nvim-lua/popup.nvim'
+    "Plug 'pyrho/nerveux.nvim'
+    "Plug 'nvim-lua/popup.nvim'
     "Plug 'oberblastmeister/neuron.nvim', { 'branch': 'unstable' }
+    Plug 'mickael-menu/zk-nvim'
+
+    " Markdown-preview
+    Plug 'iamcco/markdown-preview.nvim', { 'do': 'cd app && yarn install' }
     
 call plug#end()

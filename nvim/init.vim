@@ -14,10 +14,14 @@ source $HOME/.config/nvim/plugins/config/telescope.vim
 luafile $HOME/.config/nvim/plugins/config/lsp.lua
 
 " zettelkasten
-luafile $HOME/.config/nvim/plugins/config/nerveux.lua
+"luafile $HOME/.config/nvim/plugins/config/nerveux.lua
+luafile $HOME/.config/nvim/plugins/config/zk.lua
 
 " treesitter
 luafile $HOME/.config/nvim/plugins/config/treesitter.lua
 
 " vimtex
 source $HOME/.config/nvim/plugins/config/vimtex.vim
+
+luafile $HOME/.config/nvim/settings/keymaps.lua
+source $HOME/.config/nvim/plugins/config/markdown-preview.vim
