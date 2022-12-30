@@ -8,8 +8,18 @@ gnome-initial-setup-done
 gnome-session
 goa-1.0
 google-chrome
+gtk-2.0
 gtk-3.0
 gtk-4.0
+kactivitymanagerdrc
+kglobalshortcutsrc
+htop/
+tikzit
+totem/
+wireshark/io_graphs
+wireshark/preferences
+zoom.conf
+zoomus.conf
 ibus
 libreoffice
 Mattermost
@@ -32,10 +42,10 @@ user-dirs.dirs
 user-dirs.locale
 vlc
 Yubico
-zoomus.conf
 Unknown Organization
 enchant
 FortiClient
 GIMP 
 Microsoft
 teams
+VirtualBox
