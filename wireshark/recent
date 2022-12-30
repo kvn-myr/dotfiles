@@ -55,7 +55,7 @@ gui.seconds_format: SECONDS
 
 # Zoom level.
 # A decimal number.
-gui.zoom_level: 4
+gui.zoom_level: 1
 
 # Bytes view display type.
 # One of: HEX, BITS
@@ -75,11 +75,11 @@ gui.allow_hover_selection: TRUE
 
 # Main window upper (or leftmost) pane size.
 # Decimal number.
-gui.geometry_main_upper_pane: 320
+gui.geometry_main_upper_pane: 483
 
 # Main window middle pane size.
 # Decimal number.
-gui.geometry_main_lower_pane: 386
+gui.geometry_main_lower_pane: 223
 
 # Packet list column pixel widths.
 # Each pair of strings consists of a column format and its pixel width.
@@ -95,6 +95,9 @@ column.width:
 # Open conversation dialog tabs.
 # List of conversation names, e.g. "TCP", "IPv6".
 gui.conversation_tabs: 
+	"IPv4", "Ethernet",
+	"IPv6", "TCP",
+	"UDP"
 
 # Open endpoint dialog tabs.
 # List of endpoint names, e.g. "TCP", "IPv6".
@@ -108,7 +111,7 @@ gui.endpoint_tabs:
 gui.rlc_pdus_from_mac_frames: FALSE
 
 # Last directory navigated to in File Open dialog.
-gui.fileopen_remembered_dir: /home/kgb/Downloads/
+gui.fileopen_remembered_dir: /home/kgb/phd/100-research/020-data/tesla/model-x/
 
 # Additional Toolbars shown
 # List of additional toolbars to show.

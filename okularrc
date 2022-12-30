@@ -3,12 +3,42 @@ FullScreen=false
 
 [MainWindow]
 DisplayPort-2 DisplayPort-3 Height 1920x1080=1057
-DisplayPort-2 DisplayPort-3 Width 1920x1080=636
-DisplayPort-2 DisplayPort-3 XPosition 1920x1080=1282
+DisplayPort-2 DisplayPort-3 Width 1920x1080=956
+DisplayPort-2 DisplayPort-3 XPosition 1920x1080=2882
 DisplayPort-2 DisplayPort-3 YPosition 1920x1080=2
-State=AAAA/wAAAAD9AAAAAAAAA7wAAARgAAAABAAAAAQAAAAIAAAACPwAAAADAAAAAQAAAAEAAAAsAHEAdQBpAGMAawBBAG4AbgBvAHQAYQB0AGkAbwBuAFQAbwBvAGwAQgBhAHICAAAAAP////8AAAAAAAAAAAAAAAIAAAABAAAAFgBtAGEAaQBuAFQAbwBvAGwAQgBhAHIBAAAAAP////8AAAAAAAAAAAAAAAIAAAABAAAAIgBhAG4AbgBvAHQAYQB0AGkAbwBuAFQAbwBvAGwAQgBhAHIAAAAAAP////8AAAAAAAAAAA==
+State=AAAA/wAAAAD9AAAAAAAAA7wAAAPoAAAABAAAAAQAAAAIAAAACPwAAAADAAAAAQAAAAEAAAAsAHEAdQBpAGMAawBBAG4AbgBvAHQAYQB0AGkAbwBuAFQAbwBvAGwAQgBhAHICAAAAAP////8AAAAAAAAAAAAAAAIAAAABAAAAFgBtAGEAaQBuAFQAbwBvAGwAQgBhAHIBAAAAAP////8AAAAAAAAAAAAAAAIAAAABAAAAIgBhAG4AbgBvAHQAYQB0AGkAbwBuAFQAbwBvAGwAQgBhAHIAAAAAAP////8AAAAAAAAAAA==
 ToolBarsMovable=Disabled
 eDP DisplayPort-2 DisplayPort-3 Height 1920x1200=1177
 eDP DisplayPort-2 DisplayPort-3 Width 1920x1200=956
 eDP DisplayPort-2 DisplayPort-3 XPosition 1920x1200=2882
 eDP DisplayPort-2 DisplayPort-3 YPosition 1920x1200=2
+eDP DisplayPort-3 DisplayPort-4 Height 1920x1200=1177
+eDP DisplayPort-3 DisplayPort-4 Width 1920x1200=956
+eDP DisplayPort-3 DisplayPort-4 XPosition 1920x1200=2882
+eDP DisplayPort-3 DisplayPort-4 YPosition 1920x1200=2
+eDP HDMI-A-0 Height 1920x1080=1057
+eDP HDMI-A-0 Width 1920x1080=956
+eDP HDMI-A-0 XPosition 1920x1080=962
+eDP HDMI-A-0 YPosition 1920x1080=1082
+
+[Recent Files]
+File1[$e]=$HOME/phd/005-diss/kevin-gomez-buquerin-dissertation/diss.pdf
+File10[$e]=$HOME/phd/100-research/airbag-edr/data/model-3/case1/solution/TESLA_EDR_5YJ3E1EA1JF000000_2018_01_01_0000-mod.edr (1).pdf
+File2[$e]=$HOME/work/carissma/selfy/Annex 1 - Description of the action (part B).pdf
+File3[$e]=$HOME/phd/020-publications/Ontologies-in-ADF/adf_ontology.pdf
+File4[$e]=$HOME/phd/030-presentations/c-ecos-weihnachtsfeier-2022/core.pdf
+File5[$e]=$HOME/academic/vorlesung/uploads/ki/kap6/ki_present.pdf
+File6[$e]=$HOME/phd/020-publications/adf-characteristics/elsarticle-template.pdf
+File7[$e]=$HOME/work/carissma/selfy/Annex 1 - Description of the action (part A).pdf
+File8[$e]=file:$HOME/phd/020-publications/adf-characteristics/elsarticle-template.pdf
+File9[$e]=$HOME/phd/100-research/airbag-edr/data/EDR-Protokolle_Beispielfaelle/Opel_Insignia_2016_oF_mW/Opel_Insignia_2016_oF_mW.PDF
+Name1[$e]=diss.pdf
+Name10[$e]=TESLA_EDR_5YJ3E1EA1JF000000_2018_01_01_0000-mod.edr (1).pdf
+Name2[$e]=Annex 1 - Description of the action (part B).pdf
+Name3[$e]=adf_ontology.pdf
+Name4[$e]=core.pdf
+Name5[$e]=ki_present.pdf
+Name6[$e]=elsarticle-template.pdf
+Name7[$e]=Annex 1 - Description of the action (part A).pdf
+Name8[$e]=elsarticle-template.pdf
+Name9[$e]=Opel_Insignia_2016_oF_mW.PDF
