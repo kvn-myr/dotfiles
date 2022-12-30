@@ -1,0 +1,9 @@
+[Main View]
+ShowLeftPanel=false
+SplitterSizes=233,719
+
+[PageView]
+MouseMode=TableSelect
+
+[Search]
+SearchCaseSensitive=true
