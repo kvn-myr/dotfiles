@@ -66,4 +66,9 @@ return require('packer').startup(function(use)
     -- 
     use('lervag/vimtex')
 
+    -- 
+    -- zk-nvim
+    --
+    use("mickael-menu/zk-nvim")
+
 end)
