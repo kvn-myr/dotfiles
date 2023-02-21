@@ -24,7 +24,7 @@ recent.display_filter: tcp.stream eq 5
 
 # Main window geometry.
 # Decimal numbers.
-gui.geometry_main_x: 960
+gui.geometry_main_x: 0
 gui.geometry_main_y: 0
 gui.geometry_main_width: 956
 gui.geometry_main_height: 1057
