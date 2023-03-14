@@ -3,11 +3,10 @@ FullScreen=false
 
 [MainWindow]
 DisplayPort-2 DisplayPort-3 Height 1920x1080=1057
-DisplayPort-2 DisplayPort-3 Width 1920x1080=956
-DisplayPort-2 DisplayPort-3 XPosition 1920x1080=2882
+DisplayPort-2 DisplayPort-3 Width 1920x1080=636
+DisplayPort-2 DisplayPort-3 XPosition 1920x1080=2562
 DisplayPort-2 DisplayPort-3 YPosition 1920x1080=2
-RestorePositionForNextInstance=false
-State=AAAA/wAAAAD9AAAAAAAAA7wAAAPDAAAABAAAAAQAAAAIAAAACPwAAAADAAAAAQAAAAEAAAAsAHEAdQBpAGMAawBBAG4AbgBvAHQAYQB0AGkAbwBuAFQAbwBvAGwAQgBhAHICAAAAAP////8AAAAAAAAAAAAAAAIAAAABAAAAFgBtAGEAaQBuAFQAbwBvAGwAQgBhAHIBAAAAAP////8AAAAAAAAAAAAAAAIAAAABAAAAIgBhAG4AbgBvAHQAYQB0AGkAbwBuAFQAbwBvAGwAQgBhAHIBAAAAAP////8AAAAAAAAAAA==
+State=AAAA/wAAAAD9AAAAAAAAAnwAAAPDAAAABAAAAAQAAAAIAAAACPwAAAADAAAAAQAAAAEAAAAsAHEAdQBpAGMAawBBAG4AbgBvAHQAYQB0AGkAbwBuAFQAbwBvAGwAQgBhAHICAAAAAP////8AAAAAAAAAAAAAAAIAAAABAAAAFgBtAGEAaQBuAFQAbwBvAGwAQgBhAHIBAAAAAP////8AAAAAAAAAAAAAAAIAAAABAAAAIgBhAG4AbgBvAHQAYQB0AGkAbwBuAFQAbwBvAGwAQgBhAHIBAAAAAP////8AAAAAAAAAAA==
 ToolBarsMovable=Disabled
 XWAYLAND0 XWAYLAND1 Height 1920x1080=700
 XWAYLAND0 XWAYLAND1 Width 1920x1080=956
@@ -22,7 +21,7 @@ eDP DisplayPort-3 DisplayPort-4 Height 1920x1200=1177
 eDP DisplayPort-3 DisplayPort-4 Width 1920x1080=956
 eDP DisplayPort-3 DisplayPort-4 Width 1920x1200=956
 eDP DisplayPort-3 DisplayPort-4 XPosition 1920x1080=2882
-eDP DisplayPort-3 DisplayPort-4 XPosition 1920x1200=2882
+eDP DisplayPort-3 DisplayPort-4 XPosition 1920x1200=962
 eDP DisplayPort-3 DisplayPort-4 YPosition 1920x1080=1202
 eDP DisplayPort-3 DisplayPort-4 YPosition 1920x1200=2
 eDP DisplayPort-5 DisplayPort-6 Height 1920x1080=1057
@@ -43,21 +42,23 @@ eDP XPosition 1920x1080=962
 eDP YPosition 1920x1080=2
 
 [Recent Files]
-File1[$e]=$HOME/work/carissma/selfy/Annex 1 - Description of the action (part A).pdf
-File2[$e]=$HOME/work/carissma/selfy/Annex 1 - Description of the action (part B).pdf
-File3[$e]=$HOME/cv-kevin-gomezbuquerin/resume.pdf
-File4[$e]=$HOME/phd/990-foerderungen/gi-fellowship/leistungen-gomez.pdf
-File5[$e]=$HOME/phd/001-literature/papers/Garfinkel2010.pdf
-File6[$e]=$HOME/phd/005-diss/kevin-gomez-buquerin-dissertation/diss.pdf
-File7[$e]=$HOME/phd/030-presentations/myphd-2023/core.pdf
-File8[$e]=$HOME/phd/990-foerderungen/bidt/master.pdf
-File9[$e]=$HOME/phd/990-foerderungen/gi-fellowship/konzept-gomez.pdf
-Name1[$e]=Annex 1 - Description of the action (part A).pdf
-Name2[$e]=Annex 1 - Description of the action (part B).pdf
-Name3[$e]=resume.pdf
-Name4[$e]=leistungen-gomez.pdf
-Name5[$e]=Garfinkel2010.pdf
-Name6[$e]=diss.pdf
-Name7[$e]=core.pdf
-Name8[$e]=master.pdf
-Name9[$e]=konzept-gomez.pdf
+File1[$e]=$HOME/work/carissma/selfy/Annex 1 - Description of the action (part B).pdf
+File10[$e]=file:$HOME/phd/005-diss/kevin-gomez-buquerin-dissertation/diss.pdf
+File2[$e]=$HOME/cv-kevin-gomezbuquerin/resume.pdf
+File3[$e]=$HOME/phd/990-foerderungen/gi-fellowship/leistungen-gomez.pdf
+File4[$e]=$HOME/phd/001-literature/papers/Garfinkel2010.pdf
+File5[$e]=$HOME/phd/030-presentations/myphd-2023/core.pdf
+File6[$e]=$HOME/phd/990-foerderungen/bidt/master.pdf
+File7[$e]=$HOME/phd/990-foerderungen/gi-fellowship/konzept-gomez.pdf
+File8[$e]=$HOME/phd/005-diss/kevin-gomez-buquerin-dissertation/diss.pdf
+File9[$e]=$HOME/academic/vorlesung/core.pdf
+Name1[$e]=Annex 1 - Description of the action (part B).pdf
+Name10[$e]=diss.pdf
+Name2[$e]=resume.pdf
+Name3[$e]=leistungen-gomez.pdf
+Name4[$e]=Garfinkel2010.pdf
+Name5[$e]=core.pdf
+Name6[$e]=master.pdf
+Name7[$e]=konzept-gomez.pdf
+Name8[$e]=diss.pdf
+Name9[$e]=core.pdf

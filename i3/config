@@ -202,7 +202,7 @@ bindsym $mod+Shift+period exec systemctl suspend
 # Switch to last workspace
 bindsym $mod+Shift+Tab workspace back_and_forth
 
-exec --no-startup-id i3-msg 'workspace 2; exec /snap/bin/firefox'
-exec --no-startup-id i3-msg 'workspace 8; exec /usr/bin/thunderbird'
-exec --no-startup-id i3-msg 'workspace 9; exec /usr/bin/mattermost-desktop'
-exec --no-startup-id i3-msg 'workspace 9; exec /snap/bin/slack'
+#exec --no-startup-id i3-msg 'workspace 2; exec /snap/bin/firefox'
+#exec --no-startup-id i3-msg 'workspace 8; exec /usr/bin/thunderbird'
+#exec --no-startup-id i3-msg 'workspace 9; exec /usr/bin/mattermost-desktop'
+#exec --no-startup-id i3-msg 'workspace 9; exec /snap/bin/slack'
