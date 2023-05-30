@@ -1,16 +1,16 @@
 [content]
 xalign = 0.5
 yalign = 0.5
-geometry = 1920x1080+0+0
+geometry = 1920x1200+0+0
 start_blanked = off
 start_fullscreen = on
 white_blanking = off
 
 [presenter]
-geometry = 1916x1057+1920+0
+geometry = 1916x1057+0+1200
 start_fullscreen = off
 pointer = red
-pointer_mode = continuous
+pointer_mode = manual
 show_bigbuttons = off
 show_annotations = off
 scroll_number = off
@@ -45,8 +45,8 @@ highlight_tools = vertical
 highlight = {
 	    "resizeable": true,
 	    "proportions": [
-	        0.6705020920502092,
-	        0.32949790794979084
+	        0.6698113207547169,
+	        0.33018867924528306
 	    ],
 	    "orientation": "horizontal",
 	    "children": [
@@ -68,8 +68,8 @@ highlight = {
 notes = {
 	    "resizeable": true,
 	    "proportions": [
-	        0.6169102296450939,
-	        0.3830897703549061
+	        0.6257828810020877,
+	        0.3742171189979123
 	    ],
 	    "orientation": "horizontal",
 	    "children": [
