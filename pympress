@@ -1,18 +1,18 @@
 [content]
 xalign = 0.5
 yalign = 0.5
-geometry = 1920x1200+0+0
+geometry = 1920x1080+0+0
 start_blanked = off
 start_fullscreen = on
 white_blanking = off
 
 [presenter]
-geometry = 1916x1057+0+1200
+geometry = 1920x1080+0+1080
 start_fullscreen = off
 pointer = red
 pointer_mode = manual
 show_bigbuttons = off
-show_annotations = off
+show_annotations = on
 scroll_number = off
 slide_ratio = 0.75
 next_slide_count = 1
@@ -21,8 +21,8 @@ next_slide_count = 1
 plain = {
 	    "resizeable": true,
 	    "proportions": [
-	        0.5481171548117155,
-	        0.4518828451882845
+	        0.5501043841336117,
+	        0.44989561586638827
 	    ],
 	    "orientation": "horizontal",
 	    "children": [
@@ -68,8 +68,8 @@ highlight = {
 notes = {
 	    "resizeable": true,
 	    "proportions": [
-	        0.6257828810020877,
-	        0.3742171189979123
+	        0.6322916666666667,
+	        0.3677083333333333
 	    ],
 	    "orientation": "horizontal",
 	    "children": [

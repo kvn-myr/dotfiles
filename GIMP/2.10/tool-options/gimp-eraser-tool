@@ -3,6 +3,8 @@
 (brush "2. Hardness 100")
 (dynamics "Dynamics Off")
 (palette "Color History")
-(brush-size 51)
+(brush-size 100)
+(brush-hardness 0.5)
+(brush-force 0.81999999999999995)
 
 # end of gimp-eraser-tool options
