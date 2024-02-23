@@ -187,8 +187,8 @@ bindsym XF86AudioMute exec --no-startup-id pactl set-sink-mute 0 toggle # mute s
 # # Sreen brightness controls
 #bindsym XF86MonBrightnessUp exec xbacklight -inc 20 # increase screen brightness
 #bindsym XF86MonBrightnessDown exec xbacklight -dec 20 # decrease screen brightness
-bindsym XF86MonBrightnessDown exec --no-startup-id sudo brightnessctl --min-val=2 -q set 3%-
-bindsym XF86MonBrightnessUp exec --no-startup-id sudo brightnessct -q set 3%+
+bindsym XF86MonBrightnessUp exec --no-startup-id brightnessctl set +5%
+bindsym XF86MonBrightnessDown exec --no-startup-id brightnessctl set 5%-
 
 # Alsa audio controls.
 bindsym $mod+Shift+comma exec ~/.config/i3/scripts/alsa restore
@@ -209,3 +209,5 @@ bindsym $mod+Shift+Tab workspace back_and_forth
 exec /home/kgb/Downloads/pcloud
 
 exec --no-startup-id "xmodmap ~/.Xmodmap"
+
+exec --no-startup-id picom
